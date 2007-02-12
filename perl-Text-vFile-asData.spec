@@ -7,7 +7,7 @@
 %define		pdir	Text
 %define		pnam	vFile-asData
 Summary:	Text::vFile::asData - parse vFile formatted files into data structures
-Summary(pl):	Text::vFile::asData - przetwarzanie plikÛw w formacie vFile na struktury danych
+Summary(pl.UTF-8):   Text::vFile::asData - przetwarzanie plik√≥w w formacie vFile na struktury danych
 Name:		perl-Text-vFile-asData
 Version:	0.05
 Release:	1
@@ -29,8 +29,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Perl module Text::vFile::asData reads vFile format files, such as
 vCard (RFC 2426) and vCalendar (RFC 2445).
 
-%description -l pl
-Modu≥ Perla Text::vFile::asData odczytuje pliki w formacie vFile,
+%description -l pl.UTF-8
+Modu≈Ç Perla Text::vFile::asData odczytuje pliki w formacie vFile,
 takie jak vCard (RFC 2426) i vCalendar (RFC 2445).
 
 %prep
