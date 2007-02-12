@@ -7,7 +7,7 @@
 %define		pdir	Text
 %define		pnam	vFile-asData
 Summary:	Text::vFile::asData - parse vFile formatted files into data structures
-Summary(pl.UTF-8):   Text::vFile::asData - przetwarzanie plików w formacie vFile na struktury danych
+Summary(pl.UTF-8):	Text::vFile::asData - przetwarzanie plików w formacie vFile na struktury danych
 Name:		perl-Text-vFile-asData
 Version:	0.05
 Release:	1
