@@ -9,13 +9,13 @@
 Summary:	Text::vFile::asData - parse vFile formatted files into data structures
 Summary(pl.UTF-8):	Text::vFile::asData - przetwarzanie plików w formacie vFile na struktury danych
 Name:		perl-Text-vFile-asData
-Version:	0.07
+Version:	0.08
 Release:	1
 # "same as perl"
 License:	GPL or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	1f0fc1fbef2111a936db3eb4678ddccc
+# Source0-md5:	39fad8c1ca12d44a1bde955f74b3d470
 URL:		http://search.cpan.org/dist/Text-vFile-asData/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
